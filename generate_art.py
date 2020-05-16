@@ -1,6 +1,8 @@
 import turtle
 import random
 
+#made a small change to test git
+
 def main():
     window = turtle.Screen()
     window.setup(width=800, height=600, startx=10, starty=0.5)
